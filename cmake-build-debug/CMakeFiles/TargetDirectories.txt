@@ -1,0 +1,3 @@
+/Users/tj/Documents/icbt/arraytesting/cmake-build-debug/CMakeFiles/arraytesting.dir
+/Users/tj/Documents/icbt/arraytesting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tj/Documents/icbt/arraytesting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
