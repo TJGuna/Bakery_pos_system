@@ -1,0 +1,12 @@
+PKG1  testPac1  PRO1  2
+PKG1  testPac1  PRO2  3
+PKG1  testPac1  PRO4  1
+PKG2  testPac2  PRO2  3
+PKG2  testPac2  PRO3  1
+PKG3  cakeChoco  PRO2  1
+PKG3  cakeChoco  PRO4  1
+PKG4  testPac4  PRO1  3
+PKG4  testPac4  PRO4  6
+PKG4  testPac4  PRO2  5
+PKG4  testPac4  PRO3  5
+

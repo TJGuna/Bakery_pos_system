@@ -1,0 +1,5 @@
+CUS1 guna mathagal 008088080880
+CUS2 JohnDoe colombo 070070707
+CUS3 JohnDoe kandy 070070707
+CUS4 JohnDoe galle 070070707
+

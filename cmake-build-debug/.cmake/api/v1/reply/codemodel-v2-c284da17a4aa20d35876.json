@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/tj/Documents/icbt/arraytesting/cmake-build-debug",
-		"source" : "/Users/tj/Documents/icbt/arraytesting"
+		"build" : "/Users/tj/Documents/GitHub/final/cmake-build-debug",
+		"source" : "/Users/tj/Documents/GitHub/final"
 	},
 	"version" : 
 	{

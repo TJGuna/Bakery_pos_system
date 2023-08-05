@@ -1,4 +1,4 @@
-"/Users/tj/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/tj/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/tj/Documents/icbt/arraytesting -B /Users/tj/Documents/icbt/arraytesting/cmake-build-debug
+"/Users/tj/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/tj/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/tj/Documents/GitHub/final -B /Users/tj/Documents/GitHub/final/cmake-build-debug
 -- The C compiler identification is AppleClang 14.0.3.14030022
 -- The CXX compiler identification is AppleClang 14.0.3.14030022
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/tj/Documents/icbt/arraytesting/cmake-build-debug
+-- Build files have been written to: /Users/tj/Documents/GitHub/final/cmake-build-debug

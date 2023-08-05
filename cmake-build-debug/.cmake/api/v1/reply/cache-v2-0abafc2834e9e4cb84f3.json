@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/tj/Documents/icbt/arraytesting/cmake-build-debug"
+			"value" : "/Users/tj/Documents/GitHub/final/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/tj/Documents/icbt/arraytesting/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/tj/Documents/GitHub/final/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/tj/Documents/icbt/arraytesting"
+			"value" : "/Users/tj/Documents/GitHub/final"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/tj/Documents/icbt/arraytesting/cmake-build-debug"
+			"value" : "/Users/tj/Documents/GitHub/final/cmake-build-debug"
 		},
 		{
 			"name" : "arraytesting_IS_TOP_LEVEL",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/tj/Documents/icbt/arraytesting"
+			"value" : "/Users/tj/Documents/GitHub/final"
 		}
 	],
 	"kind" : "cache",

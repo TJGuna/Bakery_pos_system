@@ -1,0 +1,12 @@
+1 tea 12.2
+2 cake 12.2
+3 soda 2.1
+3 un 8
+4 eaaa 4
+5 tra 2
+6 ee 43
+7  ea  89
+8  ea  45
+9  tea  34
+10  test  43
+11  testi  88
